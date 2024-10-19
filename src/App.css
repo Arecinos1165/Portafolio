@@ -1,0 +1,20 @@
+#Card{
+    display: flex;
+    flex-direction: column;
+    background-color: #522B5B;
+    border-radius: 1.9rem;
+    margin: 1rem;
+    padding: 1rem;
+    color: #fbe4d8;
+}
+
+#bg{
+    background: linear-gradient(
+        180deg,
+       #fbe4d8, #DFB6B2, #854F6C,#2B124C 
+    );
+}
+
+button{
+    color: #fbe4d8;
+}
