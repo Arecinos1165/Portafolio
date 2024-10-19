@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "npm run build && cd dist && npm run serve",
     "serve": "vite serve"
   },
   "dependencies": {
