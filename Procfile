@@ -1,0 +1,1 @@
+web: npm run build && cd dist && npm run serve --host 0.0.0.0 --port $PORT
